@@ -152,7 +152,7 @@ const Contact = () => {
         {/* Footer */}
         <div className="text-center mt-16 pt-8 border-t border-section-border">
           <p className="text-muted-foreground">
-            © 2024 Kalpana. Built with passion and{" "}
+            © 2025 Kalpana. Built with passion and{" "}
             <span className="text-highlight">React.js</span>
           </p>
         </div>

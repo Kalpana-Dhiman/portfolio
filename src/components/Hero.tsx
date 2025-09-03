@@ -84,7 +84,7 @@ const Hero = () => {
               <div className="absolute -inset-4 bg-hero-gradient rounded-2xl blur-2xl opacity-30 animate-pulse" />
               <img
                 src={heroImage}
-                alt="Kalpana Dhiman"
+                alt="Kalpana"
                 className="relative w-80 h-80 lg:w-96 lg:h-96 object-cover rounded-2xl shadow-elevated border border-section-border"
               />
             </div>

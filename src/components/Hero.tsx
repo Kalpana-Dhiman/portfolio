@@ -17,7 +17,7 @@ const Hero = () => {
               <Badge variant="outline" className="text-highlight border-highlight/30">
                 Software Developer
               </Badge>
-              <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold leading-tight">
+              <h1 className="text-3xl sm:text-4xl md:text-6xl lg:text-7xl font-bold leading-tight">
                 Hi, I'm{" "}
                 <span className="bg-text-gradient bg-clip-text text-transparent">
                   Kalpana
